@@ -1,8 +1,6 @@
 - 👋 Hi, I'm @maple52046
 - 🇹🇼 I'm a Taiwanese cloud engineer.
-- 🤝 I've experience in software development with Golang, Flutter, Python, and React.
-- 🌱 I’m currently learning photography.
-- 👀 I’m looking for a new job in Taipei(prefer) or Tokyo(my dream)
+- 🤝 I've experience in software development with Golang, Flutter, Python, and React.js.
 - 📫 Contact me via mail: maple52046@gmail.com
 
 <!---
